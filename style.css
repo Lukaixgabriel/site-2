@@ -1,0 +1,112 @@
+body {background-color: rgb(255, 221, 68);
+}
+
+@media only screen and (max-width: 1000000px) {
+    body { background-color: rgb(255, 136, 0);
+    }
+
+    @media only screen and (max-width: 1000000px) .p1 {font-size: 500%;
+        text-align: center;
+        background-color: rgb(70, 43, 226);
+        border-color: rgb(255, 230, 0);
+        border-width: 7px;
+        border-style: double;
+        margin-left: 15%;
+        margin-right: 15%;
+        padding-left: 1%;
+        padding-top: 10%;
+        }
+        
+
+.p1 {font-size: 500%;
+text-align: center;
+background-color: rgb(70, 43, 226);
+border-color: rgb(255, 230, 0);
+border-width: 7px;
+border-style: double;
+margin-left: 15%;
+margin-right: 15%;
+padding-left: 1%;
+padding-top: 10%;
+}
+
+.p2 {font-size: 700%;
+    text-align: left;
+    background-color: rgb(231, 189, 0);
+    border-color: rgb(15, 40, 184);
+    border-width: 6px;
+    border-style: dashed;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: center;
+    padding-top: 5%;
+    }
+    .p2 {font-size: 300%;
+        text-align: center;
+        background-color: rgb(231, 189, 0);
+        border-color: rgb(15, 40, 184);
+        border-width: 10px;
+        border-style: dashed;
+        margin-left: 10%;
+        margin-right: 10%;
+        padding-left: center;
+        padding-top: 5%;
+        }
+    
+    .p3 {font-size: 160%;
+        text-align: center;
+        background-color: rgb(10, 122, 0);
+        border-color: rgb(184, 15, 86);
+        border-width: 20px;
+        border-style: double;
+        margin-left: 40%;
+        margin-right: 14%;
+        padding-left: center;
+        padding-top: 2%;
+        }
+
+        .p4 {font-size: 200%;
+            text-align: left;
+            background-color: rgb(32, 113, 119);
+            border-color: rgb(15, 184, 100);
+            border-width: 13px;
+            border-style: outset;
+            margin-left: 20%;
+            margin-right: 24%;
+            padding-left: 1%;
+            padding-top: 1%;
+            }
+            .p5 {font-size: 200%;
+                text-align: left;
+                background-color: rgb(80, 32, 119);
+                border-color: rgb(184, 139, 15);
+                border-width: 29px;
+                border-style: double;
+                margin-left: 30%;
+                margin-right: 24%;
+                padding-left: 1%;
+                padding-top: 1%;
+                }
+                .p6 {font-size: 230%;
+                    text-align: right;
+                    background-color: rgb(32, 119, 86);
+                    border-color: rgb(63, 47, 2);
+                    border-width: 10px;
+                    border-style: double;
+                    margin-left: 20%;
+                    margin-right: 24%;
+                    padding-left: 10%;
+                    padding-top: 1%;
+                    }
+                    .p7 {font-size: 300%;
+                        text-align: right;
+                        background-color: rgb(251, 255, 0);
+                        border-color: rgb(63, 2, 2);
+                        border-width: 10px;
+                        border-style: outset;
+                        margin-left: 30%;
+                        margin-right: 24%;
+                        padding-left: 1%;
+                        padding-top: 10%;
+                        }
+                    
